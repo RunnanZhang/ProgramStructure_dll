@@ -2,7 +2,7 @@
 #define METHOD_H
 class QWidget;
 
-class __declspec(dllimport)  Method
+class /*__declspec(dllimport)*/  Method
 {
 public:
 	Method();
